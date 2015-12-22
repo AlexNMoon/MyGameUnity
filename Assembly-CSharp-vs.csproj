@@ -54,7 +54,10 @@
      <Compile Include="Assets\RigidbodyFirstPersonController.cs" />
      <Compile Include="Assets\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\ThirdPersonUserControl.cs" />
-     <Compile Include="Assets\_Scene\Scripts\TextChange.cs" />
+     <Compile Include="Assets\_Scene\Scripts\backpack.cs" />
+     <Compile Include="Assets\_Scene\Scripts\freezer.cs" />
+     <Compile Include="Assets\_Scene\Scripts\tent1.cs" />
+     <Compile Include="Assets\_Scene\Scripts\tent2.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\_Scene\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
